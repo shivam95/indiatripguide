@@ -79,7 +79,7 @@ export default function Home() {
                       Book your Varanasi adventure with us for an unforgettable
                       experience, immersing in rich culture, spirituality, and
                       timeless charm.We provide cultural and photo walks in Banaras. 
-                      Languages Available:Hindi, English, Spanish, French
+                      <br/>Languages Available:Hindi, English, Spanish, French
                     </p>
                   </div>
                 </div>
@@ -101,7 +101,7 @@ export default function Home() {
                       Plan your Bodh Gaya tour today and immerse in
                       enlightenment, tranquility, and sacred sites for a
                       transformative and enriching experience.
-                      Languages Available:Hindi, English, Spanish, French
+                     <br/> Languages Available:Hindi, English, Spanish, French
                     </p>
                   </div>
                 </div>
@@ -124,7 +124,7 @@ export default function Home() {
                       Reserve your Kolkata tour now for a captivating journey
                       through cultural diversity, historical marvels, and
                       vibrant city life. Book today!
-                      Languages Available:Hindi, English, Spanish, French
+                    <br/>  Languages Available:Hindi, English, Spanish, French
                     </p>
                   </div>
                 </div>
