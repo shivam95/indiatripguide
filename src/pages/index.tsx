@@ -50,7 +50,7 @@ export default function Home() {
               <div className="mt-5 sm:mt-8 sm:flex justify-center">
                 <div className="rounded-md shadow">
                   <a
-                    href="https://wa.me/8624966087?text=Hello,+I+am+interested+in+knowing+more+about+your +tours."
+                    href="https://wa.me/+91-8624966087?text=Hello,+I+am+interested+in+knowing+more+about+your +tours."
                     className="w-full flex items-center gap-2 justify-center px-8 py-3 border border-transparent text-base leading-6 font-regular rounded-md text-white bg-[#24D366] hover:bg-indigo-500 focus:outline-none focus:border-indigo-700 focus:shadow-outline-indigo transition duration-150 ease-in-out md:py-4 md:px-10"
                   >
                     <div className="w-[20] h-[20]">
